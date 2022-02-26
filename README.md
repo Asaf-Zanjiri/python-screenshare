@@ -4,7 +4,7 @@ I digged up my projects folder and found some cool stuff I made in 2020 / 2021. 
 Since it was an old project, the code is a bit messy, since I don't plan on doing anything with it I won't tidy up the code and make it more professional, but it should be good enough if you're looking for python screenshare examples.
 
 
-I've made both TCP version and a UDP version.
+I've made both TCP version and a UDP version. On both versions the screenshare app resolution is resizable.
 
 The TCP version averages on around 10fps on my local network.
 The UDP version averages on around 30fps on my local network.
